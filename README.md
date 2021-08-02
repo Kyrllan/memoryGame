@@ -1,4 +1,4 @@
 # Simple memory game made with javascript + bootstrap
 
-#preview
+# preview
 https://kyrllan.github.io/memoryGame/
